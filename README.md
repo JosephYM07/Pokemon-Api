@@ -1,4 +1,13 @@
 Este repositorio contiene un código HTML y JavaScript que implementa una interfaz web para una ver realizar un vs en una batalla pokemon y muestra una lista de usuarios obtenidos de una API. A continuación, se describen brevemente las características clave:
+# Integrantes
+
+1. Jared Valenzuela
+2. Joseph Yépez
+3. Alejandro Moreira
+4.Heyer Tinoco
+5. Juan Falconi
+6. Juan Gualotuña
+7. Miguel Paredes
 
 ### Contenido del Repositorio:
 
